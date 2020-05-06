@@ -1,0 +1,121 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "de-DE": {
+          },
+        "en-AU": {
+          "summary": "Learn fun facts about tech.",
+          "examplePhrases": [
+            "Alexa open tech facts",
+            "Alexa ask tech facts for a fact",
+            "Alexa tell tech facts to tell me trivia"
+          ],
+          "keywords": [
+            "tech",
+            "facts",
+            "trivia"
+          ],
+          "name": "tech Facts",
+          "description": "Ask for tech Facts, and learn about what really matters, like bits and bytes.\n\nTech Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Tech Facts\" or \"Alexa, open Tech Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "en-CA": {
+          "summary": "Learn fun facts about tech.",
+          "examplePhrases": [
+            "Alexa open tech facts",
+            "Alexa ask tech facts for a fact",
+            "Alexa tell tech facts to tell me trivia"
+          ],
+          "keywords": [
+            "tech",
+            "facts",
+            "trivia"
+          ],
+          "name": "tech Facts",
+          "description": "Ask for tech Facts, and learn about what really matters, like dark matter.\n\ntech Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch tech Facts\" or \"Alexa, open tech Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "en-GB": {
+          "summary": "Learn fun facts about tech.",
+          "examplePhrases": [
+            "Alexa open tech facts",
+            "Alexa ask tech facts for a fact",
+            "Alexa tell tech facts to tell me trivia"
+          ],
+          "keywords": [
+            "tech",
+            "facts",
+            "trivia"
+          ],
+          "name": "tech Facts",
+          "description": "Ask for tech Facts, and learn about what really matters, like dark matter.\n\ntech Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch tech Facts\" or \"Alexa, open tech Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "en-IN": {
+          "summary": "Learn fun facts about tech.",
+          "examplePhrases": [
+            "Alexa open tech facts",
+            "Alexa ask tech facts for a fact",
+            "Alexa tell tech facts to tell me trivia"
+          ],
+          "keywords": [
+            "tech",
+            "facts",
+            "trivia"
+          ],
+          "name": "tech Facts",
+          "description": "Ask for tech Facts, and learn about what really matters, like dark matter.\n\ntech Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch tech Facts\" or \"Alexa, open tech Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "en-US": {
+          "summary": "Learn fun facts about tech.",
+          "examplePhrases": [
+            "Alexa open tech facts",
+            "Alexa ask tech facts for a fact",
+            "Alexa tell tech facts to tell me trivia"
+          ],
+          "keywords": [
+            "tech",
+            "facts",
+            "trivia"
+          ],
+          "name": "tech Facts",
+          "description": "Ask for tech Facts, and learn about what really matters, like dark matter.\n\ntech Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch tech Facts\" or \"Alexa, open tech Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+        },
+        "es-ES": {
+
+        },
+        "es-MX": {
+
+        },
+        "es-US": {
+
+        },
+        "fr-FR": {
+
+        },
+        "fr-CA": {
+
+        },
+        "hi-IN": {
+          
+        },
+        "it-IT": {
+          
+        },
+        "ja-JP": {
+         
+        },
+        "pt-BR": {
+        }
+      },
+      "category": "KNOWLEDGE_AND_TRIVIA"
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom",
+          "uri": "ask-custom-fact-default"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
