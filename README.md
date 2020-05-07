@@ -46,5 +46,8 @@ Reference from [Alexa's Official Repository](https://github.com/alexa/skill-samp
 - If you develop your desired skill and want to publish it, click on Distribution, fill all details, then head over to Certification.
 - You need to submit your Skill for review and after it's approved, you can use it across all Alexa enabled devices and have others use it too!
 
+## To Update The List/ Introduce a New Topic
+Make amends to the [index.js](index.js) file. Add new statements and facts in place of the pre-existing ones. Add your topic in place of "tech" wherever it's mentioned.
+
 ## Collaborators
 - Aaishika S Bhattacharya
