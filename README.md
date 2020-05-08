@@ -3,6 +3,7 @@ With the help of my YouTube Tutorial and this repository, I aim at helping you d
 Reference from [Alexa's Official Repository](https://github.com/alexa/skill-sample-nodejs-fact)
 
 ## Tutorial Video
+[![YouTube Video](YouTube.png)](https://www.youtube.com/watch?v=blU2_4Eq9yQ)
 
 ## Alexa Developer Console / Alexa Skill Kit (ASK)
 - Head over to the Alexa Developer Console by clicking [here](https://developer.amazon.com/alexa/console/ask/).
