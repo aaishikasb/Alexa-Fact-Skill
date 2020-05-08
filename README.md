@@ -1,6 +1,6 @@
 # Alexa-Fact-Skill
 With the help of my YouTube Tutorial and this repository, I aim at helping you develop an Alexa Skill which when invoked will get you random tech facts!
-Reference from [Alexa's Official Repository](https://github.com/alexa/skill-sample-nodejs-fact)
+Reference from [Alexa's Official Repository](https://github.com/alexa/skill-sample-nodejs-fact)  <br>
 ![Issues](https://img.shields.io/github/issues/aaishikasb/Alexa-Fact-Skill)
 ![Forks](https://img.shields.io/github/forks/aaishikasb/Alexa-Fact-Skill)
 ![Stars](https://img.shields.io/github/stars/aaishikasb/Alexa-Fact-Skill)
