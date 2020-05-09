@@ -5,6 +5,7 @@ Reference from [Alexa's Official Repository](https://github.com/alexa/skill-samp
 ![Forks](https://img.shields.io/github/forks/aaishikasb/Alexa-Fact-Skill)
 ![Stars](https://img.shields.io/github/stars/aaishikasb/Alexa-Fact-Skill)
 ![License](https://img.shields.io/github/license/aaishikasb/Alexa-Fact-Skill)
+![Author](https://img.shields.io/badge/author-aaishikasb-orange)
 ![Collaborators](https://img.shields.io/badge/collaborators-1-red)
 
 ## Tutorial Video
